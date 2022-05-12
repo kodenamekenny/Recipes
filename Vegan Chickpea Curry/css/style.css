@@ -13,10 +13,22 @@
 img{
   display: block;
   margin: 0 auto;
-  width: 25%;
+  width: 50%;
 }
 
+section ul{
+  list-style-type: none;
+}
 
+.Dish{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Lead{
+  font-weight: bold;
+  font-size: 35px;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
