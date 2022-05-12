@@ -10,6 +10,23 @@
 /******************************************
 /* LAYOUT
 /*******************************************/
+body{
+  background-color: blanchedalmond;
+}
+header{
+  position: sticky; top: 0;
+  background-color: blanchedalmond;
+  border: solid black 1px;
+  padding: 0px auto;
+}
+nav  h1{
+  text-align: center;
+}
+nav  ul{
+  float: right;
+  padding-top: 0px;
+  border-top: 0px;
+}
 img{
   display: block;
   margin: 0 auto;
