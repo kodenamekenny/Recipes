@@ -1,0 +1,1 @@
+// document.querySelector('a').addEventListener('click',displaydate )
